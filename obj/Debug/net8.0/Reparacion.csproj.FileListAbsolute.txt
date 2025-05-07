@@ -1,0 +1,14 @@
+C:\Users\User\Reparacion\bin\Debug\net8.0\Reparacion.exe
+C:\Users\User\Reparacion\bin\Debug\net8.0\Reparacion.deps.json
+C:\Users\User\Reparacion\bin\Debug\net8.0\Reparacion.runtimeconfig.json
+C:\Users\User\Reparacion\bin\Debug\net8.0\Reparacion.dll
+C:\Users\User\Reparacion\bin\Debug\net8.0\Reparacion.pdb
+C:\Users\User\Reparacion\obj\Debug\net8.0\Reparacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Reparacion\obj\Debug\net8.0\Reparacion.AssemblyInfoInputs.cache
+C:\Users\User\Reparacion\obj\Debug\net8.0\Reparacion.AssemblyInfo.cs
+C:\Users\User\Reparacion\obj\Debug\net8.0\Reparacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Reparacion\obj\Debug\net8.0\Reparacion.dll
+C:\Users\User\Reparacion\obj\Debug\net8.0\refint\Reparacion.dll
+C:\Users\User\Reparacion\obj\Debug\net8.0\Reparacion.pdb
+C:\Users\User\Reparacion\obj\Debug\net8.0\Reparacion.genruntimeconfig.cache
+C:\Users\User\Reparacion\obj\Debug\net8.0\ref\Reparacion.dll
